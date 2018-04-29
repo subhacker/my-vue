@@ -1,21 +1,5 @@
-# my-vue
-
-> none
-
-## Build Setup
-
-``` bash
-# install dependencies
-npm install
-
-# serve with hot reload at localhost:8080
-npm run dev
-
-# build for production with minification
-npm run build
-
-# build for production and view the bundle analyzer report
-npm run build --report
-```
-
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+##本工程是基于Vue构建的新闻管理系统
+1，页面包含主页面，新闻管理，新闻修改，模块添加，模块管理等页面。
+2，使用Vue的单文件组件，进行组件的构建；
+3，使用Vuex进行状态的管理
+4，使用Router进行路由的导航；
